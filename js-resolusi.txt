@@ -1,0 +1,7 @@
+Javascript Resolusi
+- mengulang materi javascript yang sudah di pelajari
+- lanjut ke javascript lanjutan
+- lanjut belajar react js
+- lanjut node js
+- memahami lebih dalam typescript
+- coming soon web3

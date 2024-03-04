@@ -6,3 +6,4 @@ Javascript Resolusi
 - memahami lebih dalam typescript
 - coming soon web3
 - (akan memakan 1 tahun lebih untuk memahami keseluruhan web3)
+- .......................................................
